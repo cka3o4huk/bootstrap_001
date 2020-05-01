@@ -1,0 +1,11 @@
+body{
+    background: #ccc;
+}
+
+/* Override Bootstrap Theme */
+.navbar-collapse {
+    text-align: right;
+    background: #fff;
+    padding: 0 10px;
+}
+/* End Override Bootstrap Theme */
